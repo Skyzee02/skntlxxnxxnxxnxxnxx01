@@ -1,0 +1,26 @@
+[
+  { 
+    "key": "SK-01", 
+    "duration": "7Days", 
+    "created_at": "2025-11-08T23:20:51Z", 
+    "whitelist": ["Sekayzee69"] 
+  },
+    { 
+    "key": "FREE", 
+    "duration": "30Days",
+    "created_at": "2025-11-04T17:45:00Z",
+    "whitelist": ["Ohdim16", "Sekayzee666", "Tatsumaki576", "Dimmltr", "KonnTheLegend", "yb7xyb7syubx"] 
+  },
+  { 
+    "key": "VIP-1234", 
+    "duration": "30Days",
+    "created_at": "2025-11-03T00:00:00Z",
+    "whitelist": ["Sekayzee69"] 
+  },
+  { 
+    "key": "DEV", 
+    "duration": "Lifetime",
+    "created_at": "2025-11-05T00:00:00Z",
+    "whitelist": ["Sekayzee69"] 
+  }
+]
