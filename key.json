@@ -1,26 +1,48 @@
 [
-  { 
-    "key": "SK-01", 
-    "duration": "7Days", 
-    "created_at": "2025-11-08T23:20:51Z", 
-    "whitelist": ["Sekayzee69"] 
+  {
+    "key": "SK-01",
+    "duration": "7Days",
+    "created_at": "2025-11-08T23:20:51Z",
+    "whitelist": [
+      "Sekayzee69",
+      "Asdfghjkl"
+    ]
   },
-    { 
-    "key": "FREE", 
+  {
+    "key": "FREE",
     "duration": "30Days",
     "created_at": "2025-11-04T17:45:00Z",
-    "whitelist": ["Ohdim16", "Sekayzee666", "Tatsumaki576", "Dimmltr", "KonnTheLegend", "yb7xyb7syubx", "anyoengshiball", "FR4SYE", "Yanzstore044", "Sekayzee999", "herxxyyyy", "KyleClawnie", "BryvnDoc", "MalphasReign"] 
+    "whitelist": [
+      "Ohdim16",
+      "Sekayzee666",
+      "Tatsumaki576",
+      "Dimmltr",
+      "KonnTheLegend",
+      "yb7xyb7syubx",
+      "anyoengshiball",
+      "FR4SYE",
+      "Yanzstore044",
+      "Sekayzee999",
+      "herxxyyyy",
+      "KyleClawnie",
+      "BryvnDoc",
+      "MalphasReign"
+    ]
   },
-  { 
-    "key": "VIP-1234", 
+  {
+    "key": "VIP-1234",
     "duration": "30Days",
     "created_at": "2025-11-03T00:00:00Z",
-    "whitelist": ["Sekayzee69"] 
+    "whitelist": [
+      "Sekayzee69"
+    ]
   },
-  { 
-    "key": "DEV", 
+  {
+    "key": "DEV",
     "duration": "Lifetime",
     "created_at": "2025-11-05T00:00:00Z",
-    "whitelist": ["Sekayzee69"] 
+    "whitelist": [
+      "Sekayzee69"
+    ]
   }
 ]
