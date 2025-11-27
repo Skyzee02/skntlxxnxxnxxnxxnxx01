@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1439051366973833286/1439075409558900937/Proyek_Baru_9_52446642.png?ex=6919dbaa&is=69188a2a&hm=6f0d8760d4ff9054602d52bdd82b6c68295338b29064336a75d890a00f4e2489&"  />
+  <img height="200" src="https://cdn.discordapp.com/attachments/1439051366973833286/1443592058232377515/quality_restoration_20251126062137327.jpg?ex=6929a15f&is=69284fdf&hm=8e82011171552db49996d930daa08049b37e9eceb76ba30518d6c7cc9a9f828a&"  />
 </div>
 
 ###
