@@ -1,53 +1,54 @@
 [
-  {
-    "key": "FREE",
-    "duration": "30Days",
-    "created_at": "2025-11-28T06:44:36Z",
-    "whitelist": [
-      "Ohdim16",
-      "Sekayzee666",
-      "Tatsumaki576",
-      "Dimmltr",
-      "KonnTheLegend",
-      "yb7xyb7syubx",
-      "anyoengshiball",
-      "FR4SYE",
-      "Yanzstore044",
-      "Sekayzee999",
-      "herxxyyyy",
-      "KyleClawnie",
-      "BryvnDoc",
-      "MalphasReign",
-      "Rip_angell13",
-      "dddoooops",
-      "zphice2",
-      "Darkmaters125",
-      "zphice3",
-      "JokoMi1",
-      "FREE",
-      "Zx30s",
-      "teingsaha_123",
-      "Oreo",
-      "brokayeyeye",
-      "Osmanabdu8",
-      "nanzell21",
-      "VirClawnie"
-    ]
-  },
-  {
-    "key": "DEV",
-    "duration": "Lifetime",
-    "created_at": "2025-11-05T00:00:00Z",
-    "whitelist": [
-      "Sekayzee69"
-    ]
-  },
-  {
-    "key": "KAYZEE-1W9394YZ",
-    "duration": "30Days",
-    "created_at": "2025-11-28T17:30:14.747Z",
-    "whitelist": [
-      "test"
-    ]
-  }
+    {
+        "key": "FREE",
+        "duration": "30Days",
+        "created_at": "2025-11-28T06:44:36Z",
+        "whitelist": [
+            "Ohdim16",
+            "Sekayzee666",
+            "Tatsumaki576",
+            "Dimmltr",
+            "KonnTheLegend",
+            "yb7xyb7syubx",
+            "anyoengshiball",
+            "FR4SYE",
+            "Yanzstore044",
+            "Sekayzee999",
+            "herxxyyyy",
+            "KyleClawnie",
+            "BryvnDoc",
+            "MalphasReign",
+            "Rip_angell13",
+            "dddoooops",
+            "zphice2",
+            "Darkmaters125",
+            "zphice3",
+            "JokoMi1",
+            "FREE",
+            "Zx30s",
+            "teingsaha_123",
+            "Oreo",
+            "brokayeyeye",
+            "Osmanabdu8",
+            "nanzell21",
+            "VirClawnie",
+            "devilss1997"
+        ]
+    },
+    {
+        "key": "DEV",
+        "duration": "Lifetime",
+        "created_at": "2025-11-05T00:00:00Z",
+        "whitelist": [
+            "Sekayzee69"
+        ]
+    },
+    {
+        "key": "KAYZEE-1W9394YZ",
+        "duration": "30Days",
+        "created_at": "2025-11-28T17:30:14.747Z",
+        "whitelist": [
+            "test"
+        ]
+    }
 ]
